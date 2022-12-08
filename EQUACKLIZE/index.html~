@@ -1,0 +1,96 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equacklize</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/reset.css">
+</head>
+<body>
+
+<div class="header">
+  <img src="imagenes/logo.png" alt="">
+</div>
+
+<div class="topnav">
+  <a href="/paginas/perfil.html" >PERFIL</a>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>LO mas nuevo</h2>
+      
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+      <div class="fakeimg">Imagen</div>
+
+      
+    </div>
+    <div class="card">
+      <h2>artistas conocidos</h2>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      <div class="fakeimg1" >artista</div>
+      
+      
+    </div>
+    <div class="card">
+      <h2>albumes en tendencia</h2>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+      <div class="fakeimg" >album</div>
+		
+      
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card1">
+      <h2>Mi musica</h2>
+      <div class="fakeimg" style="height:100px;">Imagen</div>
+      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    </div>
+    <div class="card1">
+      <h3>Recien escuchado</h3>
+      <div class="fakeimg2"><p>cancion</p></div>
+      <div class="fakeimg2"><p>cancion</p></div>
+      <div class="fakeimg2"><p>cancion</p></div>
+    </div>
+    <div class="card">
+      <h3>algo</h3>
+      <p>texto</p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>Escuhando</h2>
+</div>
+
+</body>
+</html><code><samp><samp></samp></samp></code>
